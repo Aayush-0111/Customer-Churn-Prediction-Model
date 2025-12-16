@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.h5
+*.pth
+*.ckpt
+.env
+.vscode/
+data/
+models/
